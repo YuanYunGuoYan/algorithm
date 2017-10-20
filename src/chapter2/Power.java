@@ -1,4 +1,4 @@
-package chapter_two;
+package chapter2;
 
 /**
  * Created by Administrator on 2017/10/17.

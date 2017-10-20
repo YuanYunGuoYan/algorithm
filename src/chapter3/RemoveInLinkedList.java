@@ -1,4 +1,4 @@
-package chapter_three;
+package chapter3;
 
 import java.util.Iterator;
 import java.util.List;

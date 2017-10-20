@@ -1,4 +1,4 @@
-package chapter_two;
+package chapter2;
 
 import static jdk.nashorn.internal.objects.NativeMath.max;
 
