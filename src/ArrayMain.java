@@ -1,5 +1,5 @@
 
-public class Main {
+public class ArrayMain {
 
     public static void main(String[] args) {
         Array<Integer> arr = new Array<>();
